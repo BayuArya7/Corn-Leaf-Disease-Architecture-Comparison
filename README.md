@@ -9,8 +9,11 @@ Dalam proyek ini, kami menggunakan deep learning untuk mendeteksi dan mengklasif
 
 ## 🎯 Tujuan
 Proyek ini bertujuan untuk:
+
 A. Mengevaluasi performa dua arsitektur deep learning, DenseNet-201 dan NASNet-Mobile, dalam mengklasifikasikan penyakit daun jagung.
+
 B. Menemukan arsitektur yang paling efektif dan efisien dalam mendeteksi empat kelas daun jagung:
+
     1. Bercak daun
     2. Daun sehat
     3. Hawar daun
@@ -19,4 +22,5 @@ B. Menemukan arsitektur yang paling efektif dan efisien dalam mendeteksi empat k
 
 ## 🧪 Ringkasan Hasil
 DenseNet-201: Memberikan akurasi terbaik dengan 96% pada data pengujian.
+
 NASNet-Mobile: Menunjukkan performa yang efisien dengan ukuran model yang lebih kecil dan waktu pelatihan yang lebih cepat, namun akurasinya sedikit lebih rendah dibanding DenseNet-201.
