@@ -24,3 +24,11 @@ B. Menemukan arsitektur yang paling efektif dan efisien dalam mendeteksi empat k
 DenseNet-201: Memberikan akurasi terbaik dengan 96% pada data pengujian.
 
 NASNet-Mobile: Menunjukkan performa yang efisien dengan ukuran model yang lebih kecil dan waktu pelatihan yang lebih cepat, namun akurasinya sedikit lebih rendah dibanding DenseNet-201.
+
+
+## 📊 Dataset
+Dataset yang digunakan dalam proyek ini terdiri dari sekitar 4000 gambar daun jagung yang terbagi dalam empat kategori: bercak daun, daun sehat, hawar daun, dan karat daun.  
+
+Kamu bisa mengunduh dataset dari Kaggle pada tautan berikut: [Corn Leaf Disease](https://www.kaggle.com/datasets/ndisan/corn-leaf-disease).
+
+
